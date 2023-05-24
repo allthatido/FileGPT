@@ -15,7 +15,7 @@
 
  - Download the LLama family model (GGML V3 only) you want to test. Refer to README.md in the `models` folder.
 
- - install dependencies
+ - install dependencies. If you get an error for the below command, install each library indivisually using pip install.
    ```bash
       pip install -r requirements.txt
 
