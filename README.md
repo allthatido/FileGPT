@@ -18,7 +18,7 @@
  - install dependencies. If you get an error for the below command, install each library indivisually using pip install. Windows users may have to install latest Visual C++ libraries from [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) and CMake from [here](https://cmake.org/download/)
    ```bash
       pip install -r requirements.txt
-If you have a Nvidia GPU use cuBLAS to speed up inference. Install llama-cpp-python as described [here](https://github.com/abetlen/llama-cpp-python#installation-with-openblas--cublas--clblast)
+   If you have a Nvidia GPU use cuBLAS to speed up inference. Install llama-cpp-python as described [here](https://github.com/abetlen/llama-cpp-python#installation-with-openblas--cublas--clblast)
  - Start streamlit app
    ```bash
       streamlit run app.py
