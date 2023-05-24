@@ -13,7 +13,7 @@
 
  - Navigate to the `models` folder
 
- - Download the LLama family model you want to test. Refer to README.md in the `models` folder.
+ - Download the LLama family model (GGML V3 only) you want to test. Refer to README.md in the `models` folder.
 
  - install dependencies
    ```bash
